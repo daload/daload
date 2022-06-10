@@ -22,6 +22,9 @@
 <h2 align="center">Interesting Repos</h2> 
 <a href="https://github.com/daload/Word-and-phoneme-recognition">
 <img display='block' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=daload&repo=Word-and-phoneme-recognition&theme=dark"/>
+</a>  
+<a href="https://github.com/daload/poisson-disc-sampling">
+<img display='block' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=daload&repo=poisson-disc-sampling&theme=dark"/>
 </a>
 
 </div>
