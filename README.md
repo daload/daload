@@ -23,10 +23,9 @@
 <a href="https://github.com/daload/Word-and-phoneme-recognition">
 <img display='block' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=daload&repo=Word-and-phoneme-recognition&theme=dark"/>
 </a>  
-<a href="https://github.com/daload/poisson-disc-sampling">
-<img display='block' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=daload&repo=poisson-disc-sampling&theme=dark"/>
+<a href="https://github.com/daload/Poisson-disc-sampling">
+<img display='block' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=daload&repo=Poisson-disc-sampling&theme=dark"/>
 </a>
-
 </div>
 
 <div align="center">
