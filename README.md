@@ -22,9 +22,12 @@
 <h2 align="center">Interesting Repos</h2> 
 <a href="https://github.com/daload/Word-and-phoneme-recognition">
 <img display='block' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=daload&repo=Word-and-phoneme-recognition&theme=dark"/>
-</a>  
+</a>
 <a href="https://github.com/daload/Poisson-disc-sampling">
 <img display='block' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=daload&repo=Poisson-disc-sampling&theme=dark"/>
+</a> <p></p>
+<a href="https://github.com/daload/HCI-by-hand-gesture-recognition-PoC">
+<img display='block' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=daload&repo=HCI-by-hand-gesture-recognition-PoC&theme=dark"/>
 </a>
 </div>
 
