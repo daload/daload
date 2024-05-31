@@ -8,13 +8,11 @@
 <img src="https://img.shields.io/twitter/url?color=white&label=Java&logo=visualstudiocode&logoColor=white&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdavid-lopez-adell-762273199%2F">
 <img src="https://img.shields.io/twitter/url?color=white&label=C&logo=C&logoColor=white&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdavid-lopez-adell-762273199%2F">
 <img src="https://img.shields.io/twitter/url?color=white&label=SQL&logo=MySql&logoColor=white&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdavid-lopez-adell-762273199%2F">
-<img src="https://img.shields.io/twitter/url?color=white&label=IntelliJ IDEA&logo=IntelliJIDEA&logoColor=white&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdavid-lopez-adell-762273199%2F">
-<img src="https://img.shields.io/twitter/url?color=white&label=PyCharm&logo=Pycharm&logoColor=white&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdavid-lopez-adell-762273199%2F">  
-<img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdavid-lopez-adell-762273199%2F&style=for-the-badge&logo=javascript&logoColor=white&label=JavaScript&color=white">  
+  <img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdavid-lopez-adell-762273199%2F&style=for-the-badge&logo=javascript&logoColor=white&label=JavaScript&color=white">  
 <img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdavid-lopez-adell-762273199%2F&style=for-the-badge&logo=react&logoColor=white&label=React%20Native&color=white">  
 <img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdavid-lopez-adell-762273199%2F&style=for-the-badge&logo=spring&logoColor=white&label=Spring&color=white">  
-  
-
+<img src="https://img.shields.io/twitter/url?color=white&label=IntelliJ IDEA&logo=IntelliJIDEA&logoColor=white&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdavid-lopez-adell-762273199%2F">
+<img src="https://img.shields.io/twitter/url?color=white&label=PyCharm&logo=Pycharm&logoColor=white&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdavid-lopez-adell-762273199%2F">  
 </div>
 
 
