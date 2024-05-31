@@ -39,11 +39,13 @@
 <a href="https://www.linkedin.com/in/david-lopez-adell-762273199/">
 <img alt="Twitter URL" src="https://img.shields.io/twitter/url?color=white&label=LinkedIn&logo=linkedin&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdavid-lopez-adell-762273199%2F">
 </a>
-
+<!--
 <a href="https://twitter.com/dload_27">
 <img alt="Twitter URL" src="https://img.shields.io/twitter/url?color=white&label=twitter&logo=Twitter&logoColor=white&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdavid-lopez-adell-762273199%2F">
 </a>
 </div>
+  -->
+  
 <!--
 **daload/daload** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
