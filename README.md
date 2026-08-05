@@ -32,6 +32,9 @@
 </a>
 <a href="https://github.com/daload/react-native-csrng">
 <img display='block' align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=daload&repo=react-native-csrng&theme=dark"/>
+</a> <p></p>
+<a href="https://github.com/daload/ai-synth">
+<img display='block' align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=daload&repo=HCI-by-hand-gesture-recognition-PoC&theme=dark"/>
 </a>
 </div>
 
