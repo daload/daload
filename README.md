@@ -36,6 +36,9 @@
 <a href="https://github.com/daload/ai-synth">
 <img display='block' align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=daload&repo=ai-synth&theme=dark"/>
 </a>
+<a href="https://github.com/daload/video-converter">
+<img display='block' align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=daload&repo=video-converter&theme=dark"/>
+</a> <p></p>
 </div>
 
 <div align="center">
