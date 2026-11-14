@@ -17,27 +17,27 @@
 <div align="center">
 <h2 align="center">GitHub Stats</h2> 
 <!--<img align="center" src="https://github-readme-stats.vercel.app/api?username=daload&theme=dark" /> -->
-<img display='block' align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=daload&layout=compact&theme=dark" /><br><br>
+<img display='block' align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daload&layout=compact&theme=dark" /><br><br>
 
 <div align="center">
 <h2 align="center">Interesting Repos</h2> 
 <a href="https://github.com/daload/Word-and-phoneme-recognition">
-<img display='block' align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=daload&repo=Word-and-phoneme-recognition&theme=dark"/>
+<img display='block' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=daload&repo=Word-and-phoneme-recognition&theme=dark"/>
 </a>
 <a href="https://github.com/daload/Poisson-disc-sampling">
-<img display='block' align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=daload&repo=Poisson-disc-sampling&theme=dark"/>
+<img display='block' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=daload&repo=Poisson-disc-sampling&theme=dark"/>
 </a> <p></p>
 <a href="https://github.com/daload/HCI-by-hand-gesture-recognition-PoC">
-<img display='block' align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=daload&repo=HCI-by-hand-gesture-recognition-PoC&theme=dark"/>
+<img display='block' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=daload&repo=HCI-by-hand-gesture-recognition-PoC&theme=dark"/>
 </a>
 <a href="https://github.com/daload/react-native-csrng">
-<img display='block' align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=daload&repo=react-native-csrng&theme=dark"/>
+<img display='block' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=daload&repo=react-native-csrng&theme=dark"/>
 </a> <p></p>
 <a href="https://github.com/daload/ai-synth">
-<img display='block' align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=daload&repo=ai-synth&theme=dark"/>
+<img display='block' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=daload&repo=ai-synth&theme=dark"/>
 </a>
 <a href="https://github.com/daload/video-converter">
-<img display='block' align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=daload&repo=video-converter&theme=dark"/>
+<img display='block' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=daload&repo=video-converter&theme=dark"/>
 </a> <p></p>
 </div>
 
